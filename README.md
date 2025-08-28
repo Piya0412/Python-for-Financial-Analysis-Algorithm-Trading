@@ -1,2 +1,2 @@
-# hello-world
-GLAIML
+# This repo would be for Algorithm Trading
+
